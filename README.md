@@ -7,6 +7,7 @@ Here we are using Transfer Learning and the pretrained model which we are using 
 The prediction we got for our model is 97% meaning for 100 images our model can predict correctly 97 images and tell us if that image is dog or cat. 
 For some reason if you can't see the file or it shows some error download the file. 
 
+Dataset :-https://www.kaggle.com/c/dogs-vs-cats
 Things you need to carry out in the project :- 
 Image pred :-
 
