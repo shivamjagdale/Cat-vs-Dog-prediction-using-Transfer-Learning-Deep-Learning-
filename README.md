@@ -34,7 +34,7 @@ Image pred :-
 
 7) See the images 
 
-8) Count the no of dog and images in train data file 
+8) Count the no of dog and cat images in train data file 
 
 9) Then resize the image 
 
